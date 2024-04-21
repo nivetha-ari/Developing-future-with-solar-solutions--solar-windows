@@ -1,7 +1,5 @@
 # Developing-future-with-solar-solutions--solar-windows using quantum dot
 
-The key to a future with transparent solar windows will involve nanotechnology. The windows designed with quantum dot technology will be able to harness enough energy from the sun while still letting light through the glass window plane the quantum dots are housed in quantum dots embedded in glass windows would be able to absorb light and re- emit it us infrared light towards solar cells housed at the edges of window panels, which would be used to generate power. 
-
 **DESIGN OF SOLAR WINDOWS:**
 Silicon remains the king for solar panel efficiency,but it is not transparent. The challenge is to prevent organic light converting materials from degrading quickly during use. The strength and the weakness of these materials lie in the molecules that transfer the photogenerated electrons to the electrodes, the entrance points to the circuit that either uses or stores the solar power. These materials are known generally as “ non-fullerenceacceptors”to set them apart from the more robust but less efficient “fullerence acceptors”made of nanoscale carbon mesh. Solar cells made with non-fullerence acceptors that incorporate sulfur can achieve silicon-rivaling efficiency of 18%, but they do not last as long. 
 
